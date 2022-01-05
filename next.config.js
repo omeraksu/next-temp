@@ -10,7 +10,8 @@ const nextConfig = {
   pwa: {
     dest: 'public',
     disable: isDev
-  }
+  },
+    swcMinify: true,
 }
 
 module.exports = withPlugins([], withPWA(nextConfig))
