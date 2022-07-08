@@ -1,11 +1,14 @@
 module.exports = {
-  title: 'Next Template',
-  description: 'Next PWA Template',
+  title: 'Türk Kripto Ekosistemi Haritası',
+  description:
+    'Kripto ekosistemi haritamız ile birbirimizi tanımamız, görmemiz, ' +
+    'ihtiyaçlarımızı karşılamamız ve gerektiğinde birlikte yola çıkmamızı sağlayarak bireysel değil, ' +
+    'hep beraber çok daha güçlü bir ekosistem inşa etmeyi hedefliyoruz.',
   siteUrl: 'https://github.com/ademilter/next-web-template',
-  googleAnalytic: 'X-XXXXXXXXXX',
+  googleAnalytic: 'G-WNRPZPFECR',
   author: {
-    email: 'ademilter@gmail.com',
-    name: 'Adem ilter'
+    email: 'info@laykadao.com',
+    name: 'Layka DAO'
   },
-  lang: 'en'
+  lang: 'tr'
 }

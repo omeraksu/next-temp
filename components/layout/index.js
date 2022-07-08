@@ -7,7 +7,6 @@ import Nav from '../nav'
 function Layout({ children }) {
   return (
     <div className={styles.layout}>
-      <Nav />
       <main>{children}</main>
     </div>
   )
