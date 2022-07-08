@@ -25,7 +25,7 @@ body {
   line-height: 1.5;
   color: var(--c-text);
   background-color: #090b1b;
-  background-image: url('../public/bg.png');
+  background-image: url('../public/bg.webp');
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;
