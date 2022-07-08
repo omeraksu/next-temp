@@ -40,18 +40,21 @@ img {
 }
 
 .text {
-  backdrop-filter: blur(8px);
-  background-color: rgba(9, 11, 27, 0.2);
+  backdrop-filter: blur(7px);
+  background-color: rgba(9, 11, 27, 0.35);
   color: white;
   padding: 4rem;
   display: flex;
   flex-direction: column;
   gap: 3rem;
-  margin: 6%;
+  margin: 6% 14% 6% 6%;
+  border-radius: 13px;
 }
 
 h1 {
   font-size: 64px;
+  line-height: 1.1;
+  margin-bottom: 1.4rem;
 }
 
 @media only screen and (max-width: 600px) {

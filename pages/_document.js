@@ -38,6 +38,7 @@ class MyDocument extends Document {
             name="apple-mobile-web-app-status-bar-style"
             content="default"
           />
+          <meta name="theme-color" content="#090b1b" />
           <link
             rel="apple-touch-icon"
             sizes="180x180"
